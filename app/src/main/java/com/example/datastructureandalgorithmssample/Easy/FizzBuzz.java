@@ -1,4 +1,4 @@
-package com.example.datastructureandalgorithmssample.chapter_1;
+package com.example.datastructureandalgorithmssample.Easy;
 
 import java.util.ArrayList;
 import java.util.List;

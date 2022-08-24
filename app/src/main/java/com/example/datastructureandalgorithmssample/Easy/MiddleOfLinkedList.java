@@ -1,4 +1,4 @@
-package com.example.datastructureandalgorithmssample.chapter_1;
+package com.example.datastructureandalgorithmssample.Easy;
 
 import com.example.datastructureandalgorithmssample.ListNode;
 

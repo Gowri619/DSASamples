@@ -1,7 +1,5 @@
 package com.example.datastructureandalgorithmssample;
 
-import com.example.datastructureandalgorithmssample.chapter_1.PalindromeLinkedList;
-
 public class ListNode {
 
     public int val;

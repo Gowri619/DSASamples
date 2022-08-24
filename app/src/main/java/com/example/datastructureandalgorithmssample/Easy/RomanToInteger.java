@@ -1,6 +1,4 @@
-package com.example.datastructureandalgorithmssample.chapter_1;
-
-import android.util.Log;
+package com.example.datastructureandalgorithmssample.Easy;
 
 import java.util.HashMap;
 import java.util.Map;
